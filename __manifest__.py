@@ -13,7 +13,7 @@
     'author': "Mint System GmbH",
     'website': "https://www.mint-system.ch",
     'category': 'Accounting',
-    'version': '14.0.1.0.1',
+    'version': '14.0.1.0.2',
 
     'depends': ['base', 'web'],
 
